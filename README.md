@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi, I'm Alvin Ahmadov 👋
+# Hi, I'm Alvin 👋
 
 Backend Engineer | Python/Django/FastAPI | AI/ML & Computer Vision Enthusiast | Building Scalable APIs & AI-Powered Tools  
 
