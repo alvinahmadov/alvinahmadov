@@ -63,4 +63,4 @@ API built with FastAPI + ML models for **energy demand prediction**, demonstrati
 I love **bridging the gap between backend engineering and AI**, turning experiments into **scalable, production-ready solutions**.
 
 📫 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/alvinahmadov) | [GitHub](https://github.com/alvinahmadov)
+[LinkedIn](https://www.linkedin.com/in/alvin-ahmadov/) | [GitHub](https://github.com/alvinahmadov)
