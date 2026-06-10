@@ -1,15 +1,17 @@
 # Hi, I'm Alvin 👋
 
-Backend Engineer | Python/Django/FastAPI | AI/ML & Computer Vision Enthusiast | Building Scalable APIs & AI-Powered Tools  
+## Senior Backend & Product Engineer
 
-I’m a software engineer passionate about creating **production-ready backend systems** and integrating **AI/ML solutions** to solve real-world problems.  
+Building SaaS platforms, marketplaces, AI-powered applications, and scalable backend systems.
+
+I have 6+ years of experience designing and developing production-ready software for startups and businesses.
 I combine experience in **backend engineering, microservices, and database design** with advanced work in **computer vision, object detection, and real-time video analysis**.
 
 ---
 
 ## 🛠 Tech Stack & Expertise
 
-**Backend & API:**  
+**Backend architecture:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django) 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)  
