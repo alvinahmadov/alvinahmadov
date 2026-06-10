@@ -2,10 +2,11 @@
 
 ## Senior Backend & Product Engineer
 
-Building SaaS platforms, marketplaces, AI-powered applications, and scalable backend systems.
+I build scalable SaaS platforms, marketplaces, APIs, and AI-powered applications.
 
-I have 6+ years of experience designing and developing production-ready software for startups and businesses.
-I combine experience in **backend engineering, microservices, and database design** with advanced work in **computer vision, object detection, and real-time video analysis**.
+With 6+ years of experience in software engineering, I help startups and businesses transform ideas into production-ready products — from MVPs to scalable systems serving real users.
+
+My expertise spans backend architecture, cloud infrastructure, database design, payment integrations, AI-enabled workflows, and product development.
 
 ---
 
@@ -13,10 +14,15 @@ I combine experience in **backend engineering, microservices, and database desig
 
 **Backend architecture:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) 
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django) 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi) 
+
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
+ 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) 
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
 
 **AI/ML & Computer Vision:**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-E41E26?style=flat-square&logo=pytorch) 
@@ -46,23 +52,119 @@ GPU-accelerated real-time traffic analysis platform built with **C++** and the *
 ### **[RTSPCam](https://github.com/alvinahmadov/rtspcam)**
 RTSP server for USB3.0 industrial cameras (Daheng Imaging), implemented in **C++**, enabling **video streaming over RTSP with minimal dependencies** and easy integration with RTSP-compatible workflows.
 
-### **SLA Prediction & AI Pipelines**
-End-to-end pipeline for **predicting service-level agreements and operational KPIs** using Python, Pandas, and machine learning models.
+---
 
-### **Green Energy Forecasting API**
-API built with FastAPI + ML models for **energy demand prediction**, demonstrating real-world ML integration with **scalable backend design**.
+## 🚀 What I Build
+
+### SaaS Platforms
+
+* Multi-tenant applications
+* Subscription billing
+* Role & permission systems
+* Admin dashboards
+* Analytics & reporting
+
+### Marketplace Platforms
+
+* P2P marketplaces
+* Booking & reservation systems
+* Payment integrations
+* Fleet & asset management
+* Vendor management systems
+
+### Backend Systems
+
+* REST APIs
+* Microservices
+* Event-driven architectures
+* High-performance data processing
+* Real-time applications
+
+### AI-Powered Products
+
+* LLM integrations
+* AI automation workflows
+* Computer vision systems
+* Prediction & recommendation engines
+* Intelligent business tools
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **LLM pipelines** and **AI inference optimization**  
-- **Production-grade ML integration** into SaaS and microservices  
-- Cloud deployment of AI-powered backend systems  
+## 🛠 Tech Stack
+
+**Backend**
+**Databases & Infrastructure**
+**Frontend & Mobile**
+**AI & Data**
 
 ---
 
-## 💡 Fun Fact
-I love **bridging the gap between backend engineering and AI**, turning experiments into **scalable, production-ready solutions**.
+# 📌 Selected Projects
+## Wroomo
+
+A next-generation global vehicle rental ecosystem combining:
+
+* Peer-to-peer vehicle rentals
+* Traditional rental operations
+* Fleet management
+* Booking workflows
+* Payment processing
+* Multi-role dashboards
+
+## DiveWaiver
+
+Digital waiver and medical form platform for dive instructors and dive centers.
+
+Features include:
+
+* Mobile & web applications
+* Digital signatures
+* Multi-language support
+* Instructor management tools
+* Secure document storage
+
+## Binance Market Data Platform
+
+High-performance backend service for collecting and processing cryptocurrency market data with:
+
+* PostgreSQL storage
+* Redis caching
+* Multi-symbol support
+* REST APIs
+* Real-time processing
+
+## Computer Vision & AI Projects
+* Traffic Analyzer
+* RTSPCam
+* RecapDetect
+* FaceSwap Parts
+
+Focused on real-time video analytics, object detection, and AI-powered automation.
+
+---
+
+# 🎯 Current Focus
+
+* AI-powered SaaS products
+* LLM integrations
+* Marketplace platforms
+* Startup MVP development
+* Scalable backend systems
+* Product architecture & technical leadership
+
+---
+
+# 🤝 Open To
+
+* **Backend Engineering**
+* **SaaS Development***
+* **AI Integrations**
+* **Startup Consulting**
+* **Technical Architecture**
+* **Freelance & Contract Opportunities**
+
+---
+
 
 📫 **Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/alvin-ahmadov/) | [GitHub](https://github.com/alvinahmadov)
