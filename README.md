@@ -6,7 +6,7 @@ I build scalable SaaS platforms, marketplaces, APIs, and AI-powered applications
 
 With 6+ years of experience in software engineering, I help startups and businesses transform ideas into production-ready products — from MVPs to scalable systems serving real users.
 
-My expertise spans backend architecture, cloud infrastructure, database design, payment integrations, AI-enabled workflows, and product development.
+My expertise spans backend architecture, cloud infrastructure, database design, payment integrations, AI-enabled workflows, mobile and product development.
 
 ---
 
@@ -29,6 +29,10 @@ My expertise spans backend architecture, cloud infrastructure, database design, 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow) 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv) 
 ![YOLO](https://img.shields.io/badge/-YOLOv3-FF6F61?style=flat-square)  
+
+**Application Development:**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 
 **DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) 
