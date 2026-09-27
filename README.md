@@ -1,4 +1,4 @@
-## Backend Engineer | Python | TypeScript | Go
+## Backend Engineer | Python | Go
 
 Backend engineer working primarily in **Python** and **Node.js**, moving increasingly toward **Go** and **Rust**. I care more about architecture, system design and distribution than CRUD — payment hierarchies, multi-tenancy, transactions, fail-safe distributed systems, async job pipelines, and AI-assisted workflows are the kind of problems I gravitate toward.
 
