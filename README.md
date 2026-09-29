@@ -24,7 +24,7 @@ In software engineering since 2016 and in commerce since 2019, split between fre
 
 **Primary — commercial**
 
-- Python — Django, FastAPI, AI/ML integration, RAG pipelines
+- Python — Django, FastAPI, AI/ML integration, RAG pipelines, OCR, Computer Vision
 - Node.js — NestJS, Express, TypeScript
 
 **Growing**
