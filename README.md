@@ -6,9 +6,9 @@ In software engineering since 2016 and in commerce since 2019, split between fre
 
 ## Selected work
 
-**Wroomo** — Vehicle rental platform combining P2P and traditional fleet rental: booking workflows, payments, multi-role dashboards, fleet & asset management, vendor management systems, Stripe integration, partner API integration (Go service).
+[**Wroomo**](https://www.linkedin.com/company/wroomo/) — Vehicle rental platform combining P2P and traditional fleet rental: booking workflows, payments, multi-role dashboards, fleet & asset management, vendor management systems, Stripe integration, partner API integration (Go service).
 
-**DiveWaiver** — Offline-first SaaS backend + CRM for the diving industry. A Flutter/Dart client running on Supabase backend (PostgreSQL, RLS, Edge Functions, Sync, Real-time) and Cloudflare, with Stripe Connect handling a three-tier payment hierarchy (platform → dive center → instructor).
+[**DiveWaiver**](https://www.divewaiver.com/) — Offline-first SaaS backend + CRM for the diving industry. A Flutter/Dart client running on Supabase backend (PostgreSQL, RLS, Edge Functions, Sync, Real-time) and Cloudflare, with Stripe Connect handling a three-tier payment hierarchy (platform → dive center → instructor).
 
 **Binance Market Data Platform** — Backend service collecting and processing crypto market data across multiple symbols written in Rust. PostgreSQL + Redis, REST API, real-time processing.
 
