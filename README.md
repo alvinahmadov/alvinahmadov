@@ -10,8 +10,6 @@ In software engineering since 2016 and in commerce since 2019, split between fre
 
 [**DiveWaiver**](https://www.divewaiver.com/) — Offline-first SaaS backend + CRM for the diving industry. A Flutter/Dart client running on Supabase backend (PostgreSQL, RLS, Edge Functions, Sync, Real-time) and Cloudflare, with Stripe Connect handling a three-tier payment hierarchy (platform → dive center → instructor).
 
-**Binance Market Data Platform** — Backend service collecting and processing crypto market data across multiple symbols written in Rust. PostgreSQL + Redis, REST API, real-time processing.
-
 ## Earlier computer vision and ML work
 
 [Traffic Analyzer](https://github.com/alvinahmadov/traffic-analyzer) — GPU-accelerated real-time traffic analysis platform built with **C++** and the **NVIDIA DeepStream SDK**. Detects, tracks, and analyzes vehicles across multiple video streams for **intelligent transportation and smart city applications**.
