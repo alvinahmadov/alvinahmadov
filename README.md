@@ -4,23 +4,6 @@ Backend engineer working primarily in **Python** and **Node.js**, moving increas
 
 In software engineering since 2016 and in commerce since 2019, split between freelance/contract work and independent products/startups.
 
-## Stack
-
-**Primary — commercial**
-
-- Python — Django, FastAPI, AI/ML integration, RAG pipelines
-- Node.js — NestJS, Express, TypeScript
-
-**Growing**
-
-- Go — backend and cloud infra with simplicity and speed. About 6 months of commercial experience so far, and where my focus is actively shifting.
-
-**Also use**
-
-- PostgreSQL, MongoDB, Redis
-- C++ — real-time and computer vision work, first in stack
-- Rust — personal interest that followed from C++
-
 ## Selected work
 
 **Wroomo** — Vehicle rental platform combining P2P and traditional fleet rental: booking workflows, payments, multi-role dashboards, fleet & asset management, vendor management systems, Stripe integration, partner API integration (Go service).
@@ -38,6 +21,23 @@ In software engineering since 2016 and in commerce since 2019, split between fre
 [RecapDetect](https://github.com/alvinahmadov/recapdetect) — A Node.js-based object detection utility that wraps **YOLOv3** with Darknet bindings and **OpenCV WebAssembly** for image processing, enabling **lightweight server-side object detection in JavaScript environments**.
 
 [faceswap-parts](https://github.com/alvinahmadov/faceswap-parts) — GAN-based face part swapping study project. Demonstrates **computer vision, image processing, and deep learning pipelines**.
+
+## Stack
+
+**Primary — commercial**
+
+- Python — Django, FastAPI, AI/ML integration, RAG pipelines
+- Node.js — NestJS, Express, TypeScript
+
+**Growing**
+
+- Go — backend and cloud infra with simplicity and speed. About 6 months of commercial experience so far, and where my focus is actively shifting.
+
+**Also use**
+
+- PostgreSQL, MongoDB, Redis
+- C++ — real-time and computer vision work, first in stack
+- Rust — personal interest that followed from C++
 
 ## Currently
 
