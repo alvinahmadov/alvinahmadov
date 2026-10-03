@@ -37,6 +37,13 @@ In software engineering since 2016 and in commerce since 2019, split between fre
 - C++ — real-time and computer vision work, first in stack
 - Rust — personal interest that followed from C++
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/PeterTeamAl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterTeamAl&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/PeterTeamAl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterTeamAl&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
 ## Currently
 
 Going deeper on Go and Rust, and increasingly on AI/LLM integration on the backend side — RAG pipelines, Fine-tuning, agent workflows, and the infrastructure around them. Experimenting with Go + AI
